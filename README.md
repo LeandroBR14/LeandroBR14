@@ -6,4 +6,4 @@
 ```
 
 
-![snake gif](https://github.com/LeandroBR14/LeandroBR14/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TwistedSDD/TwistedSDD/blob/output/github-contribution-grid-snake.svg)
