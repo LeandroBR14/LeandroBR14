@@ -1,6 +1,5 @@
-### Oii, me chamo Leandro 👋🏻
+### Oii, me chamo Leandro 👋🏻 | Junior Developer
 
-```
-- 👩🏼‍💻 Atualmente estou aprendendo Java e Dart
-- 📚 Student ADS 4/5 
-```
+-  **Formado em ADS**
+-  **Stack**: Python + Java + MySQL + JS Vanilla
+-  **Infra**: Experiência com Servidores WSGI
